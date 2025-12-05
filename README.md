@@ -1,6 +1,6 @@
 # Capstone-Banking-project- DAY1
 Day 1 Concepts 
--------------------------------------------------
+--------------------------------------------------
 This document contains all Day-1 concepts of the Banking Data Platform project.
 1. Storage Account Creation
 Storage Account is created to store raw ATM, UPI, and customer data files. It acts as the
